@@ -1,0 +1,6 @@
+class Presentation {
+constructor(name,age){
+this.name = name;
+this.age = age;}}
+let newPerson = new Presenation ("Wei",38);
+console.log(newPerson);
